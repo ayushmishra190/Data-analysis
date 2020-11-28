@@ -1,2 +1,2 @@
-# FIFA-Data-analysis
-Complete EDA about the FIFA players,teams...etc that are dominating the sport.
+# Exploratory-Data-analysis
+Thoroughly performed Data-analysis on various datasets inorder to extract the insights to make a better business decisions.
